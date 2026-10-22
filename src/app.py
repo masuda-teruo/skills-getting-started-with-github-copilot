@@ -39,39 +39,39 @@ activities = {
         "max_participants": 30,
         "participants": ["john@mergington.edu", "olivia@mergington.edu"]
     },
-    "Basketball Club": {
-        "description": "Practice basketball skills and play friendly games",
-        "schedule": "Tuesdays, 3:30 PM - 5:00 PM",
-        "max_participants": 20,
+    "Soccer Team": {
+        "description": "Practice soccer skills and compete in school matches",
+        "schedule": "Tuesdays and Thursdays, 4:00 PM - 5:30 PM",
+        "max_participants": 22,
         "participants": []
     },
-    "Track and Field": {
-        "description": "Train for running, jumping, and throwing events",
-        "schedule": "Thursdays, 3:30 PM - 5:00 PM",
-        "max_participants": 25,
+    "Basketball Club": {
+        "description": "Practice basketball and play friendly games",
+        "schedule": "Mondays and Wednesdays, 3:30 PM - 5:00 PM",
+        "max_participants": 18,
         "participants": []
     },
     "Art Club": {
         "description": "Explore drawing, painting, and other visual arts",
-        "schedule": "Mondays, 3:30 PM - 5:00 PM",
-        "max_participants": 18,
+        "schedule": "Wednesdays, 3:30 PM - 5:00 PM",
+        "max_participants": 16,
         "participants": []
     },
     "Drama Club": {
-        "description": "Develop acting skills and work on school productions",
-        "schedule": "Wednesdays, 3:30 PM - 5:00 PM",
+        "description": "Act, collaborate, and put on school performances",
+        "schedule": "Thursdays, 3:30 PM - 5:00 PM",
         "max_participants": 20,
+        "participants": []
+    },
+    "Debate Club": {
+        "description": "Build research and public speaking skills through debate",
+        "schedule": "Tuesdays, 3:30 PM - 4:30 PM",
+        "max_participants": 14,
         "participants": []
     },
     "Science Club": {
         "description": "Explore scientific ideas through experiments and projects",
-        "schedule": "Tuesdays, 3:30 PM - 4:30 PM",
-        "max_participants": 16,
-        "participants": []
-    },
-    "Debate Club": {
-        "description": "Research topics and practice persuasive argumentation",
-        "schedule": "Thursdays, 3:30 PM - 4:30 PM",
+        "schedule": "Fridays, 3:30 PM - 4:30 PM",
         "max_participants": 16,
         "participants": []
     }
